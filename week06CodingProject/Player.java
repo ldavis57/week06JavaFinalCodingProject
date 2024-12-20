@@ -18,7 +18,7 @@ class Player {
 	// The player's score, initialized to zero.
 	private int score;
 
-	// The player's name, e.g., "Player1", "Han", or "George".
+	// The player's name, e.g., "Player1", "Player2", "George".
 	private String name;
 
 	/**
